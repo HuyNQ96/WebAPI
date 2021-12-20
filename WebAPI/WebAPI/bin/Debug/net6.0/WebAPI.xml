@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.ControllersUser.UserController.GetAll">
+            <summary>
+            Lấy danh sách all user
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
